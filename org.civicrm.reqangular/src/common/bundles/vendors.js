@@ -1,7 +1,6 @@
 define([
     'common/require',
     'common/angular',
-    'common/angular-date',
     'common/angularAnimate',
     'common/angularBootstrap',
     'common/angularFileUpload',
@@ -10,7 +9,7 @@ define([
     'common/angularRoute',
     'common/d3',
     'common/lodash',
-    'common/moment',
+    'common/moment'
 ], function () {
 
 });
