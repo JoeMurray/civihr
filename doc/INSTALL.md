@@ -1,8 +1,8 @@
 ## Pre-requisites
 
-CiviCRM 4.5 
+CiviCRM 4.5 (for CiviHR 1.3 - 1.5) 
 
-> NOTE: CiviHR includes some significant changes to the nomal CiviCRM
+> NOTE: CiviHR includes some significant changes to the normal CiviCRM
 > user-experience.  As with any significant change or addition, CiviHR
 > should be evaluated on a test/staging site before installing on a
 > live/production site.
